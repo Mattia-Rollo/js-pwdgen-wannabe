@@ -28,8 +28,11 @@ const elemento = document.getElementsByClassName('new-password')[0];
 console.log(elemento);
 elemento.innerHTML = `
     la password generata è :<span>
-    ${generatedPassword}</span>
+    ${generatedPassword}</span><br><br>
+    <span>livello sicurezza password -200%</span>
 
 `;
+
+
 
 
