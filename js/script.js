@@ -17,7 +17,7 @@ console.log(favoriteColor);
 const generatedPassword = nameUser + surnameUser + age + favoriteColor;
 console.log(generatedPassword);
 
-const elemento = document.getElementsByClassName('new-password');
+const elemento = document.getElementsByClassName('new-password')[0];
 console.log(elemento);
 elemento.innerHTML = `
     <span> la password generata è :</span>
