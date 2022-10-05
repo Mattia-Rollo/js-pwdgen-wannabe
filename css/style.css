@@ -4,3 +4,6 @@ body {
     background-position: center;
     
 }
+h1 {
+    text-shadow: 0px 2px 10px #afd;
+}
