@@ -9,16 +9,7 @@ ragruppo i dati inseriti dall'utente
 Prendo l'elemento con la classe "new-passowrd" dove voglio inserire la password generata 
 cambio il contenuto , inserendo la nuova password 
 
-
-
-
-
 */
-
-
-
-
-
 
 const nameUser = prompt('come ti chiami?');
 console.log(nameUser);
