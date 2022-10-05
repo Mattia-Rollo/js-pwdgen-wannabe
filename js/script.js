@@ -11,6 +11,7 @@ cambio il contenuto , inserendo la nuova password
 
 */
 
+
 const nameUser = prompt('come ti chiami?');
 console.log(nameUser);
 const surnameUser = prompt('qual\'è il tuo cognome?');
