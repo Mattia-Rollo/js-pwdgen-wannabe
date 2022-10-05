@@ -1,4 +1,17 @@
+/*
+chiedo all'utente nome
+chiedo all'utente il cognome
+chiedo all'utente il colore preferito
+chiedo all'utente la password
 
+Prendo l'elemento con la classe "new-passowrd" dove voglio inserire la password generata 
+cambio il contenuto , inserendo la nuova password
+
+
+
+
+
+*/
 
 
 
